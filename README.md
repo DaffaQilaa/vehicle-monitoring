@@ -1,5 +1,4 @@
 # Aplikasi Monitoring & Pemesanan Kendaraan Operasional
-**PT Sekawan Media Informatika - Technical Test (Fullstack Developer Intern)**
 
 Aplikasi berbasis web untuk mengelola dan memonitor pemakaian armada kendaraan operasional perusahaan tambang nikel, mencakup fitur pengajuan pemesanan oleh Admin, persetujuan berjenjang (*multi-level approval*), grafik pemakaian kendaraan, laporan ekspor Excel, serta pencatatan *activity log*.
 
